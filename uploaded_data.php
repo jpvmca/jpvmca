@@ -36,8 +36,8 @@
     <tbody>
         <?php
                   $servername = "localhost";
-        $username = "softfix_sessioncrud";
-        $password = "92VbjlIJY";
+        $username = "root";
+        $password = "";
         $dbname = "softfix_sessioncrud";
                 
                 // Create connection
